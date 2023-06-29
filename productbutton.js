@@ -1,4 +1,3 @@
-
 <script>
     window.addEventListener('DOMContentLoaded', function() {
         var inputElement = document.getElementById('productAmount');
@@ -109,15 +108,4 @@
     });
 </script>
 
-<style>
-    .hideArrows::-webkit-inner-spin-button,
-    .hideArrows::-webkit-outer-spin-button {
-        -webkit-appearance: none;
-        margin: 0;
-    }
-
-    .hideArrows {
-        -moz-appearance: textfield;
-    }
-</style>
 
