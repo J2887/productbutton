@@ -2,7 +2,7 @@
     window.addEventListener('DOMContentLoaded', function() {
         var inputElement = document.getElementById('productAmount');
         var addToCartButton = document.getElementById('addToCart');
-        var Bundelaantal = 4320;
+        var Bundelaantal = 2700;
 
         inputElement.value = Bundelaantal; // Set Bundelaantal as the default value
         inputElement.setAttribute('max', '99999'); // Set the max attribute
